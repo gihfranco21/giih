@@ -10,6 +10,7 @@ function areaQuadrado (lado){
     return lado**2;
 
 }
+let valor1 = prompt('qual o valor?');parseInt(prompt('?'));
 console.log(areaQuadrado(6));
 
 let media = function(x,y,z){
@@ -17,6 +18,3 @@ let media = function(x,y,z){
 }
 console.log(media(1,2,3));
 
-let valor1 = prompt('qual o valor?');
-document.write(valor1);
-parseInt(prompt('?'));
