@@ -16,3 +16,7 @@ let media = function(x,y,z){
     return (x+y+z)/3;
 }
 console.log(media(1,2,3));
+
+let valor1 = prompt('qual o valor?');
+document.write(valor1);
+parseInt(prompt('?'));
