@@ -25,7 +25,7 @@ let estados=[
     'Paraná','Pernambuco','Piauí','Rio de Janeiro','Rio Grande do Norte','Rio Grande do Sul','Rondônia','Roraima','Santa Catarina','São Paulo','Sergipe','Tocantins'];
 
     let i=0;
-    while(i<27){
+    while(i<estados.length){
 console.log(i);
 console.log(estados[i]);
 i++;
